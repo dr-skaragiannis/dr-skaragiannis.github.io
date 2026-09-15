@@ -1,0 +1,20 @@
+{
+  "name": "Dr. Stylianos Karagiannis — Cybersecurity Research",
+  "short_name": "S\\KARAGIANNIS",
+  "description": "Postdoctoral Researcher in Cybersecurity at Ionian University. CTF, Cyber Ranges, Game-Based Learning, Adversary Emulation. Play. Learn. Defend.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "science", "security"],
+  "icons": [
+    {
+      "src": "/og-image.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

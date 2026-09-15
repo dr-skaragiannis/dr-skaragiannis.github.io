@@ -1,0 +1,12 @@
+# robots.txt — Dr. Stylianos Karagiannis personal research website
+# https://github.com/dr-skaragiannis
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://dr-skaragiannis.github.io/sitemap.xml
+
+# Disallow build artefacts if ever exposed
+Disallow: /src/
+Disallow: /node_modules/
